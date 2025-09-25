@@ -18,5 +18,4 @@ https://github.com/alexandershaw4/VariationalFreeEnergyToyDrone
 
 ---
 
-## Repo structure
 
